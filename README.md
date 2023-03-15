@@ -29,8 +29,11 @@ NASA CDA WEB GUIDE:
  the data you're intereseted in, in this case:
 
  WI_ELSP_3DP
+ 
  WI_EHSP_3DP
+ 
  WI_SFSP_3DP
+ 
  WI_H1_WAV
 
  and submit
