@@ -46,13 +46,17 @@ NASA CDA WEB GUIDE:
  
  WI_SFSP_3DP: ---> As stacked plot
  
+ 
  WI_H1_WAV: Normalized receiver average voltage (RAD2, 1075-13825 kHz)
+ 
             Normalized receiver average voltage (RAD1, 20-1040 kHz)
+            
             Normalized receiver average voltage (TNR, 4-245 kHz)
 
 Select the time range of interest and submit to plot the data to make sure that it's what you're looking for
 
 Instead of plotting, to download data as csv files:
+
 
 -Tick 'List Data (ASCII/CSV):'
 
